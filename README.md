@@ -1,5 +1,5 @@
 # Skilvul-Game-UI
-Tugas Program Skilvul #Tech4Impact x Kampus Merdeka  
+Tugas Individu Program Skilvul #Tech4Impact x Kampus Merdeka  
 Nama : Brian Wijaya  
 Kelompok : Game 8  
 
